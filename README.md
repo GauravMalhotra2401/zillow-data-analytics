@@ -1,8 +1,8 @@
 # zillow-data-analytics
 
 Zillow Data Pipeline
-**1. Project Overview****
-**1.1. Project Title:****
+**1. Project Overview**
+**1.1. Project Title:**
 
 Zillow Data Pipeline: Real Estate Data Extraction, Processing, and Analysis
 
@@ -23,7 +23,7 @@ Data Analysts: To perform in-depth analysis of real estate market data.
 Business Stakeholders: To gain insights for strategic decision-making related to real estate investments, pricing, and market trends.
 
 **2. Pipeline Architecture**
-**2.1. Diagram:
+**2.1. Diagram:**
 
 **<img width="1465" alt="pipeline-architecture-1" src="https://github.com/GauravMalhotra2401/zillow-data-analytics/assets/171425382/d89a6a27-f34d-41fa-a68a-e573073c1266">
 
